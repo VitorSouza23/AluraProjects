@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mY57zQy0ajuCJ/b1hAefq0TR8N+G9o1UzLAtha5V2+X+MYNDbMtMeaELFl5Zakoc6eE5T7oZ+Nu0KtWtsAa7tg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\vitor\\Desktop\\ExtraindoMetodos\\Alura.LeilaoOnlien.Core\\Alura.LeilaoOnlien.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

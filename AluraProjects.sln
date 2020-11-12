@@ -1,0 +1,141 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraindoMetodos", "ExtraindoMetodos\ExtraindoMetodos.csproj", "{671CC5DC-3477-453C-87C8-3AC77B42EAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtracaoVariavel", "ExtracaoVariavel\ExtracaoVariavel.csproj", "{D509E445-68F4-4B9B-9466-1F6407AB49F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstituirMetodoPorObjetoMetodo", "SubstituirMetodoPorObjetoMetodo\SubstituirMetodoPorObjetoMetodo.csproj", "{4C8A38FA-FAF9-4B2F-8BD2-F18D0A48130D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstituirSubiclassePorCampos", "SubstituirSubiclassePorCampos\SubstituirSubiclassePorCampos.csproj", "{9CDCC3EC-1CF2-47D0-8160-BE74783C8AE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Paralelismo", "Paralelismo", "{82DDB92A-59F9-47B9-90E0-18B3E47AF122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Core", "ByteBank.Core\ByteBank.Core.csproj", "{9E47920C-6E47-4B01-A583-ACE5A72D0273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.View", "ByteBank.View\ByteBank.View.csproj", "{BC4D6C9A-BD11-4E22-8976-A150A1A83AC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reflection", "Reflection", "{C7936FE1-D987-4D52-992F-DCECAA4780EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Portal", "ByteBank.Portal\ByteBank.Portal.csproj", "{E8626B99-1E05-4902-BDC9-F7CAD7FD2213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Services", "ByteBank.Services\ByteBank.Services.csproj", "{229ABC3C-3FDB-4F11-A7F3-AAC574428D27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TDD", "TDD", "{C87BA65E-1DC9-493C-BF6F-C39C01F4BC88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{E217DBF5-3FBB-4491-8E5C-9645B7DC2DFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{F9D15CA5-4440-412B-B8AD-10B42DAF3E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.LeilaoOnlien.Core", "Alura.LeilaoOnlien.Core\Alura.LeilaoOnlien.Core.csproj", "{5816EC01-716D-44BF-A9DD-23C926526192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.LeilaoOnline.Testes", "Alura.LeilaoOnline.Testes\Alura.LeilaoOnline.Testes.csproj", "{C27ECCBA-7722-44E6-820A-F9604783156B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671CC5DC-3477-453C-87C8-3AC77B42EAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671CC5DC-3477-453C-87C8-3AC77B42EAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671CC5DC-3477-453C-87C8-3AC77B42EAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671CC5DC-3477-453C-87C8-3AC77B42EAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D509E445-68F4-4B9B-9466-1F6407AB49F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D509E445-68F4-4B9B-9466-1F6407AB49F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D509E445-68F4-4B9B-9466-1F6407AB49F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D509E445-68F4-4B9B-9466-1F6407AB49F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8A38FA-FAF9-4B2F-8BD2-F18D0A48130D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8A38FA-FAF9-4B2F-8BD2-F18D0A48130D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8A38FA-FAF9-4B2F-8BD2-F18D0A48130D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8A38FA-FAF9-4B2F-8BD2-F18D0A48130D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDCC3EC-1CF2-47D0-8160-BE74783C8AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDCC3EC-1CF2-47D0-8160-BE74783C8AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDCC3EC-1CF2-47D0-8160-BE74783C8AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDCC3EC-1CF2-47D0-8160-BE74783C8AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E47920C-6E47-4B01-A583-ACE5A72D0273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E47920C-6E47-4B01-A583-ACE5A72D0273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E47920C-6E47-4B01-A583-ACE5A72D0273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E47920C-6E47-4B01-A583-ACE5A72D0273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4D6C9A-BD11-4E22-8976-A150A1A83AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4D6C9A-BD11-4E22-8976-A150A1A83AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4D6C9A-BD11-4E22-8976-A150A1A83AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4D6C9A-BD11-4E22-8976-A150A1A83AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8626B99-1E05-4902-BDC9-F7CAD7FD2213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8626B99-1E05-4902-BDC9-F7CAD7FD2213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8626B99-1E05-4902-BDC9-F7CAD7FD2213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8626B99-1E05-4902-BDC9-F7CAD7FD2213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229ABC3C-3FDB-4F11-A7F3-AAC574428D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229ABC3C-3FDB-4F11-A7F3-AAC574428D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229ABC3C-3FDB-4F11-A7F3-AAC574428D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229ABC3C-3FDB-4F11-A7F3-AAC574428D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5816EC01-716D-44BF-A9DD-23C926526192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5816EC01-716D-44BF-A9DD-23C926526192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5816EC01-716D-44BF-A9DD-23C926526192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5816EC01-716D-44BF-A9DD-23C926526192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27ECCBA-7722-44E6-820A-F9604783156B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27ECCBA-7722-44E6-820A-F9604783156B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27ECCBA-7722-44E6-820A-F9604783156B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27ECCBA-7722-44E6-820A-F9604783156B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E47920C-6E47-4B01-A583-ACE5A72D0273} = {82DDB92A-59F9-47B9-90E0-18B3E47AF122}
+		{BC4D6C9A-BD11-4E22-8976-A150A1A83AC7} = {82DDB92A-59F9-47B9-90E0-18B3E47AF122}
+		{E8626B99-1E05-4902-BDC9-F7CAD7FD2213} = {C7936FE1-D987-4D52-992F-DCECAA4780EC}
+		{229ABC3C-3FDB-4F11-A7F3-AAC574428D27} = {C7936FE1-D987-4D52-992F-DCECAA4780EC}
+		{E217DBF5-3FBB-4491-8E5C-9645B7DC2DFD} = {C87BA65E-1DC9-493C-BF6F-C39C01F4BC88}
+		{F9D15CA5-4440-412B-B8AD-10B42DAF3E34} = {C87BA65E-1DC9-493C-BF6F-C39C01F4BC88}
+		{5816EC01-716D-44BF-A9DD-23C926526192} = {F9D15CA5-4440-412B-B8AD-10B42DAF3E34}
+		{C27ECCBA-7722-44E6-820A-F9604783156B} = {E217DBF5-3FBB-4491-8E5C-9645B7DC2DFD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F22EB48-D56A-4AAF-BBC7-1FF7A08E29E0}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/vitordesolza
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ExtraindoMetodos\\ExtraindoMetodos.csproj
+		SccProjectName1 = ExtraindoMetodos
+		SccLocalPath1 = ExtraindoMetodos
+		SccProjectUniqueName2 = ExtracaoVariavel\\ExtracaoVariavel.csproj
+		SccProjectName2 = ExtracaoVariavel
+		SccLocalPath2 = ExtracaoVariavel
+		SccProjectUniqueName3 = SubstituirMetodoPorObjetoMetodo\\SubstituirMetodoPorObjetoMetodo.csproj
+		SccProjectName3 = SubstituirMetodoPorObjetoMetodo
+		SccLocalPath3 = SubstituirMetodoPorObjetoMetodo
+		SccProjectUniqueName4 = SubstituirSubiclassePorCampos\\SubstituirSubiclassePorCampos.csproj
+		SccProjectName4 = SubstituirSubiclassePorCampos
+		SccLocalPath4 = SubstituirSubiclassePorCampos
+		SccProjectUniqueName5 = ByteBank.Core\\ByteBank.Core.csproj
+		SccProjectTopLevelParentUniqueName5 = AluraProjects.sln
+		SccProjectName5 = ByteBank.Core
+		SccLocalPath5 = ByteBank.Core
+		SccProjectUniqueName6 = ByteBank.View\\ByteBank.View.csproj
+		SccProjectTopLevelParentUniqueName6 = AluraProjects.sln
+		SccProjectName6 = ByteBank.View
+		SccLocalPath6 = ByteBank.View
+		SccProjectUniqueName7 = ByteBank.Portal\\ByteBank.Portal.csproj
+		SccProjectTopLevelParentUniqueName7 = AluraProjects.sln
+		SccProjectName7 = ByteBank.Portal
+		SccLocalPath7 = ByteBank.Portal
+		SccProjectUniqueName8 = ByteBank.Services\\ByteBank.Services.csproj
+		SccProjectTopLevelParentUniqueName8 = AluraProjects.sln
+		SccProjectName8 = ByteBank.Services
+		SccLocalPath8 = ByteBank.Services
+		SccProjectUniqueName9 = Alura.LeilaoOnlien.Core\\Alura.LeilaoOnlien.Core.csproj
+		SccProjectTopLevelParentUniqueName9 = AluraProjects.sln
+		SccProjectName9 = Alura.LeilaoOnlien.Core
+		SccLocalPath9 = Alura.LeilaoOnlien.Core
+		SccProjectUniqueName10 = Alura.LeilaoOnline.Testes\\Alura.LeilaoOnline.Testes.csproj
+		SccProjectTopLevelParentUniqueName10 = AluraProjects.sln
+		SccProjectName10 = Alura.LeilaoOnline.Testes
+		SccLocalPath10 = Alura.LeilaoOnline.Testes
+	EndGlobalSection
+EndGlobal

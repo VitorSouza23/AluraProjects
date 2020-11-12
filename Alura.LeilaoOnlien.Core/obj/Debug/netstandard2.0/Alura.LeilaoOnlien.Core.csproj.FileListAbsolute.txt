@@ -1,0 +1,9 @@
+c:\Users\vitor\Desktop\ExtraindoMetodos\Alura.LeilaoOnlien.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnlien.Core.deps.json
+c:\Users\vitor\Desktop\ExtraindoMetodos\Alura.LeilaoOnlien.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnlien.Core.dll
+c:\Users\vitor\Desktop\ExtraindoMetodos\Alura.LeilaoOnlien.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnlien.Core.pdb
+c:\Users\vitor\Desktop\ExtraindoMetodos\Alura.LeilaoOnlien.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnlien.Core.csprojAssemblyReference.cache
+c:\Users\vitor\Desktop\ExtraindoMetodos\Alura.LeilaoOnlien.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnlien.Core.AssemblyInfoInputs.cache
+c:\Users\vitor\Desktop\ExtraindoMetodos\Alura.LeilaoOnlien.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnlien.Core.AssemblyInfo.cs
+c:\Users\vitor\Desktop\ExtraindoMetodos\Alura.LeilaoOnlien.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnlien.Core.csproj.CoreCompileInputs.cache
+c:\Users\vitor\Desktop\ExtraindoMetodos\Alura.LeilaoOnlien.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnlien.Core.dll
+c:\Users\vitor\Desktop\ExtraindoMetodos\Alura.LeilaoOnlien.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnlien.Core.pdb
